@@ -1,6 +1,8 @@
 # Proxmark III development environment for Windows
 ProxSpace is a collection of tools that are required to compile the firmware and client of the Proxmark III. At its core ProxSpace uses msys2. MSYS2 is a software distro and building platform for Windows, it provides a bash shell, Autotools, revision control systems and the like for building native Windows applications using MinGW-w64 toolchains. ProxSpace uses the GNU Arm Embedded Toolchain for compiling the Proxmark III firmware.
 
+## El fichero PDF es ProxBrute: Taking ProxCard Cloning to the Next Level, un White apaper de un fork a el firmaware del prox para https://github.com/brad-anton/proxbrute Solo está en la WayBackMachine y queria recuperarlo
+
 ## Files
 ProxSpace comes with 2 different executables .bat files. 
 
